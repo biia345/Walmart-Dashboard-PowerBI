@@ -101,5 +101,12 @@ Durante o projeto foram realizadas as seguintes etapas:
 ---
 
 ## 📷 Preview
-
 ![Dashboard Preview](Imagem/preview.png)
+
+
+## 📁 Arquivo 
+O arquivo .pbix está disponível na pasta Arquivos/.
+
+
+## 📬 Contato 
+Caso queira saber mais ou colaborar, entre em contato pelo [LinkedIn](http://www.linkedin.com/in/ana-beatriz-marques-ferreira-42125121a)
